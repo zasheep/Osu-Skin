@@ -1,8 +1,20 @@
 # Osu-Skin
 Skins for Osu 
 
-Oregairu V1: Based off the anime Yahari Ore no Seishun
+Oregairu.osk : An Osu! skin made based off Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+Changes include:
+  Combo Burst
+  Colour
+  Fail Screen
+  Hit Circles
+  Pause Screen
+  Mode
+  Mods
+  Section Pass
+  Section Fail
+  Score Bar
+  Song Selection Button
+  Spinner
 
-Oregairu V2: Better & Cleaner
-
-Oregairu V3: Everything Oregairu except Life Bar
+Not Included:
+  Changes to other Osu! modes.
