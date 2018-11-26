@@ -19,3 +19,4 @@ Changes include:
 
 Not Included:
   Changes to other Osu! modes.
+  Ranking-S,A,B..
