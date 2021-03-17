@@ -18,5 +18,4 @@ Changes include:
   Spinner, 
 
 Not Included:
-  Changes to other Osu! modes.
-  Ranking-S,A,B..
+  Changes to other Osu! modes
